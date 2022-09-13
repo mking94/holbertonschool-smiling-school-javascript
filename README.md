@@ -1,1 +1,1 @@
-# holbertonschool-smiling-school-javascript
+# Holbertonschool smiling school javascript
